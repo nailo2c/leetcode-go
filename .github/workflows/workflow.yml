@@ -1,13 +1,25 @@
-name: Golang Action
+name: LeetCode Golang Solution Testing
 
-on: push
+on: 
+  push:
+    branches:
+      - master
 
 jobs:
-  checks:
-    name: run
-    runs-on: ubuntu-latest
+  build:
+    strategy:
+      matrix:
+        platform: [ubuntu-latest]
+    runs-on: ${{ matrix.platform }}
     steps:
-    - uses: actions/checkout@master
+    - name: Install Go
+      uses: actions/setup-go@v1
+      with:
+        go-version: ${{ matrix.go-version }}
 
-    - name: run
-      uses: cedrickring/golang-action@1.4.1
+    - name: Check out code
+      uses: actions/checkout@v1
+
+    - name: Tesing
+      run: |
+        go test -cover ./...
