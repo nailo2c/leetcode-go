@@ -17,8 +17,8 @@ func romanToInt(s string) int {
 		"M":  1000,
 	}
 
-	var output int = 0
-	var temp string = "M"
+	var output = 0
+	var temp = "M"
 	for _, char := range s {
 		c := string(char)
 
