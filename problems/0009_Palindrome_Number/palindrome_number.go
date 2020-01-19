@@ -1,14 +1,14 @@
 package problem0009
 
 func isPalindrome(x int) bool {
-	var origin_num, remainder int
-	var reverse int = 0
+	var originNum, remainder int
+	var reverse = 0
 
 	if x < 0 {
 		return false
 	}
 
-	origin_num = x
+	originNum = x
 
 	for {
 		remainder = x % 10
@@ -20,9 +20,9 @@ func isPalindrome(x int) bool {
 		}
 	}
 
-	if origin_num == reverse {
+	if originNum == reverse {
 		return true
-	} else {
-		return false
 	}
+
+	return false
 }
