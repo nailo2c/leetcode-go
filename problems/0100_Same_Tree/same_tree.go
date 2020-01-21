@@ -1,4 +1,4 @@
-package problem100
+package problem0100
 
 type TreeNode struct {
 	Val   int
