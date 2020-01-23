@@ -1,5 +1,6 @@
 package problem0107
 
+// TreeNode is a struct
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
