@@ -12,3 +12,4 @@ Golang Solutions for Leetcode
 |[0013](https://leetcode.com/problems/roman-to-integer/)| Roman to Integer | [Solution](./problems/0013_Roman_to_Integer/roman_to_integer.go) | 54.2% | Easy |
 |[0108](https://leetcode.com/problems/path-sum/)| Convert Sorted Array to Binary Search Tree | [Solution](./problems/0108_Convert_Sorted_Array_to_Binary_Search_Tree/convert_sorted_array_to_binary_search_tree.go) | 54.6% | Easy |
 |[0112](https://leetcode.com/problems/path-sum/)| Path Sum | [Solution](./problems/0112_Path_Sum/path_sum.go) | 39.6% | Easy |
+|[0118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle | [Solution](./problems/0118_Pascals_Triangle/pascals_triangle.go) | 49.6% | Easy |
