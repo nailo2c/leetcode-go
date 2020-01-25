@@ -1,4 +1,4 @@
-package problem0168
+package problem0171
 
 import (
 	"testing"
@@ -7,11 +7,11 @@ import (
 )
 
 type para struct {
-	one int
+	one string
 }
 
 type ans struct {
-	one string
+	one int
 }
 
 type question struct {
@@ -19,46 +19,46 @@ type question struct {
 	a ans
 }
 
-func Test_Problem0168(t *testing.T) {
+func Test_Problem0171(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
 		question{
 			p: para{
-				one: 1,
-			},
-			a: ans{
 				one: "A",
 			},
+			a: ans{
+				one: 1,
+			},
 		},
 		question{
 			p: para{
-				one: 28,
-			},
-			a: ans{
 				one: "AB",
 			},
+			a: ans{
+				one: 28,
+			},
 		},
 		question{
 			p: para{
-				one: 701,
-			},
-			a: ans{
 				one: "ZY",
 			},
+			a: ans{
+				one: 701,
+			},
 		},
 		question{
 			p: para{
-				one: 702,
+				one: "ZZ",
 			},
 			a: ans{
-				one: "ZZ",
+				one: 702,
 			},
 		},
 	}
 
 	for _, q := range qs {
 		a, p := q.a, q.p
-		ast.Equal(a.one, convertToTitle(p.one))
+		ast.Equal(a.one, titleToNumber(p.one))
 	}
 }
