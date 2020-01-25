@@ -21,3 +21,5 @@ Golang Solutions for Leetcode
 |[0112](https://leetcode.com/problems/path-sum/)| Path Sum | [Solution](./problems/0112_Path_Sum/path_sum.go) | 39.6% | Easy |
 |[0118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle | [Solution](./problems/0118_Pascals_Triangle/pascals_triangle.go) | 49.6% | Easy |
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| Pascal's Triangle II | [Solution](./problems/0119_Pascals_Triangle_II/pascals_triangle_ii.go) | 46.6% | Easy |
+|[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| Best Time to Buy and Sell Stock | [Solution](./problems/0121_Best_Time_to_Buy_and_Sell_Stock/best_time_to_buy_and_sell_stock.go) | 49.1% | Easy |
+|[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle | [Solution](./problems/0141_Linked_List_Cycle/linked_list_cycle.go) | 39.3% | Easy |
