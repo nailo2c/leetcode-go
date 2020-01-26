@@ -39,3 +39,4 @@ Golang Solutions and Tests for Leetcode
 |[0172](https://leetcode.com/problems/factorial-trailing-zeroes)| Factorial Trailing Zeroes | [Solution](./problems/0172_Factorial_Trailing_Zeroes/factorial_trailing_zeroes.go) | 37.7% | Easy |
 |[0189](https://leetcode.com/problems/rotate-array)| Rotate Array | [Solution](./problems/0189_Rotate_Array/rotate_array.go) | 32.7% | Easy |
 |[0190](https://leetcode.com/problems/reverse-bits)| Reverse Bits | [Solution](./problems/0190_Reverse_Bits/reverse_bits.go) | 34.5% | Easy |
+|[0191](https://leetcode.com/problems/number-of-1-bits)| Number of 1 Bits | [Solution](./problems/0191_Number_of_1_Bits/number_of_1_bits.go) | 46.5% | Easy |
