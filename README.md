@@ -1,8 +1,17 @@
 # Leetcode-Go
 
-Golang Solutions for Leetcode
+[![LeetCode](https://img.shields.io/badge/nailo-~100000-blue)](https://leetcode.com/nailo/) [![Coverage](https://img.shields.io/badge/coverage-100%25-green)](https://github.com/nailo2c/leetcode-go/actions) [![Go](https://img.shields.io/badge/Go-1.13-orange)](https://golang.org/)
 
-# Table of Contents
+Golang Solutions and Tests for Leetcode
+
+## Progress
+
+|     |Easy |Medium|Hard|Total|
+|:---:|:---:|:---:|:---:|:---:|
+|**Accepted**|22 |1  |1  |24  |
+|**Total**   |331|634|263|1228|
+
+## Table of Contents
 
 |#|Title|Solution|Acceptance|Difficulty|
 |:-:|:-|:-: | :-: | :-: |
