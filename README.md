@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|26 |1  |1  |24  |
+|**Accepted**|27 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -43,3 +43,4 @@ Golang Solutions and Tests for Leetcode
 |[0198](https://leetcode.com/problems/house-robber)| House Robber | [Solution](./problems/0198_House_Robber/house_robber.go) | 41.6% | Easy |
 |[0202](https://leetcode.com/problems/happy-number)| Happy Number | [Solution](./problems/0202_Happy_Number/happy_number.go) | 48.2% | Easy |
 |[0204](https://leetcode.com/problems/count-primes)| Count Primes | [Solution](./problems/0204_Count_Primes/count_primes.go) | 30.5% | Easy |
+|[0205](https://leetcode.com/problems/isomorphic-strings/)| Isomorphic Strings | [Solution](./problems/0205_Isomorphic_Strings/isomorphic_strings.go) | 38.9% | Easy |
