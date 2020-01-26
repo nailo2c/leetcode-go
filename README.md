@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|28 |1  |1  |24  |
+|**Accepted**|30 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -46,3 +46,4 @@ Golang Solutions and Tests for Leetcode
 |[0204](https://leetcode.com/problems/count-primes)| Count Primes | [Solution](./problems/0204_Count_Primes/count_primes.go) | 30.5% | Easy |
 |[0205](https://leetcode.com/problems/isomorphic-strings/)| Isomorphic Strings | [Solution](./problems/0205_Isomorphic_Strings/isomorphic_strings.go) | 38.9% | Easy |
 |[0206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List | [Solution](./problems/0206_Reverse_Linked_List/reverse_linked_list.go) | 59.1% | Easy |
+|[0217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate | [Solution](./problems/0217_Contains_Duplicate/contains_duplicate.go) | 54.6% | Easy |
