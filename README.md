@@ -28,3 +28,4 @@ Golang Solutions for Leetcode
 |[0168](https://leetcode.com/problems/excel-sheet-column-title)| Excel Sheet Column Title | [Solution](./problems/0168_Excel_Sheet_Column_Title/excel_sheet_column_title.go) | 30.1% | Easy |
 |[0171](https://leetcode.com/problems/excel-sheet-column-number)| Excel Sheet Column Number | [Solution](./problems/0171_Excel_Sheet_Column_Number/excel_sheet_column_number.go) | 53.1% | Easy |
 |[0172](https://leetcode.com/problems/factorial-trailing-zeroes)| Factorial Trailing Zeroes | [Solution](./problems/0172_Factorial_Trailing_Zeroes/factorial_trailing_zeroes.go) | 37.7% | Easy |
+|[0189](https://leetcode.com/problems/rotate-array)| Rotate Array | [Solution](./problems/0189_Rotate_Array/rotate_array.go) | 32.7% | Easy |
