@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|24 |1  |1  |24  |
+|**Accepted**|25 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -41,3 +41,4 @@ Golang Solutions and Tests for Leetcode
 |[0190](https://leetcode.com/problems/reverse-bits)| Reverse Bits | [Solution](./problems/0190_Reverse_Bits/reverse_bits.go) | 34.5% | Easy |
 |[0191](https://leetcode.com/problems/number-of-1-bits)| Number of 1 Bits | [Solution](./problems/0191_Number_of_1_Bits/number_of_1_bits.go) | 46.5% | Easy |
 |[0198](https://leetcode.com/problems/house-robber)| House Robber | [Solution](./problems/0198_House_Robber/house_robber.go) | 41.6% | Easy |
+|[0202](https://leetcode.com/problems/happy-number)| Happy Number | [Solution](./problems/0202_Happy_Number/happy_number.go) | 48.2% | Easy |
