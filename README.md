@@ -45,3 +45,4 @@ Golang Solutions and Tests for Leetcode
 |[0203](https://leetcode.com/problems/remove-linked-list-elements/)| Remove Linked List Elements | [Solution](./problems/0203_Remove_Linked_List_Elements/remove_linked_list_elements.go) | 37.0% | Easy |
 |[0204](https://leetcode.com/problems/count-primes)| Count Primes | [Solution](./problems/0204_Count_Primes/count_primes.go) | 30.5% | Easy |
 |[0205](https://leetcode.com/problems/isomorphic-strings/)| Isomorphic Strings | [Solution](./problems/0205_Isomorphic_Strings/isomorphic_strings.go) | 38.9% | Easy |
+|[0206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List | [Solution](./problems/0206_Reverse_Linked_List/reverse_linked_list.go) | 59.1% | Easy |
