@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|30 |1  |1  |24  |
+|**Accepted**|32 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
