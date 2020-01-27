@@ -48,3 +48,4 @@ Golang Solutions and Tests for Leetcode
 |[0206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List | [Solution](./problems/0206_Reverse_Linked_List/reverse_linked_list.go) | 59.1% | Easy |
 |[0217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate | [Solution](./problems/0217_Contains_Duplicate/contains_duplicate.go) | 54.6% | Easy |
 |[0219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II | [Solution](./problems/0219_Contains_Duplicate_II/contains_duplicate_ii.go) | 36.6% | Easy |
+|[0231](https://leetcode.com/problems/power-of-two/)| Power of Two | [Solution](./problems/0231_Power_of_Two/power_of_two.go) | 42.7% | Easy |
