@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|32 |1  |1  |24  |
+|**Accepted**|33 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -48,4 +48,5 @@ Golang Solutions and Tests for Leetcode
 |[0206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List | [Solution](./problems/0206_Reverse_Linked_List/reverse_linked_list.go) | 59.1% | Easy |
 |[0217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate | [Solution](./problems/0217_Contains_Duplicate/contains_duplicate.go) | 54.6% | Easy |
 |[0219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II | [Solution](./problems/0219_Contains_Duplicate_II/contains_duplicate_ii.go) | 36.6% | Easy |
+|[0225](https://leetcode.com/problems/implement-stack-using-queues/)| Implement Stack using Queues | [Solution](./problems/0225_Implement_Stack_using_Queues/implement_stack_using_queues.go) | 42.4% | Easy |
 |[0231](https://leetcode.com/problems/power-of-two/)| Power of Two | [Solution](./problems/0231_Power_of_Two/power_of_two.go) | 42.7% | Easy |
