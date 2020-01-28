@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|36 |1  |1  |24  |
+|**Accepted**|37 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -53,3 +53,4 @@ Golang Solutions and Tests for Leetcode
 |[0231](https://leetcode.com/problems/power-of-two/)| Power of Two | [Solution](./problems/0231_Power_of_Two/power_of_two.go) | 42.7% | Easy |
 |[0232](https://leetcode.com/problems/implement-queue-using-stacks/)| Implement Queue using Stacks | [Solution](./problems/0232_Implement_Queue_using_Stacks/implement_queue_using_stacks.go) | 46.6% | Easy |
 |[0234](https://leetcode.com/problems/palindrome-linked-list/)| Palindrome Linked List | [Solution](./problems/0234_Palindrome_Linked_List/palindrome_linked_list.go) | 37.8% | Easy |
+|[0235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Lowest Common Ancestor of a Binary Search Tree | [Solution](./problems/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/lowest_common_ancestor_of_a_binary_search_tree.go) | 47.7%| Easy |
