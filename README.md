@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|39 |1  |1  |24  |
+|**Accepted**|40 |1  |1  |24  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -56,3 +56,4 @@ Golang Solutions and Tests for Leetcode
 |[0235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Lowest Common Ancestor of a Binary Search Tree | [Solution](./problems/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/lowest_common_ancestor_of_a_binary_search_tree.go) | 47.7% | Easy |
 |[0237](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Delete Node in a Linked List | [Solution](./problems/0237_Delete_Node_in_a_Linked_List/delete_node_in_a_linked_list.go) | 57.7% | Easy |
 |[0242](https://leetcode.com/problems/valid-anagram/)| Valid Anagram | [Solution](./problems/0242_Valid_Anagram/valid_anagram.go) | 54.8% | Easy |
+|[0257](https://leetcode.com/problems/binary-tree-paths/)| Binary Tree Paths | [Solution](./problems/0257_Binary_Tree_Paths/binary_tree_paths.go) | 48.7% | Easy |
