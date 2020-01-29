@@ -58,3 +58,4 @@ Golang Solutions and Tests for Leetcode
 |[0242](https://leetcode.com/problems/valid-anagram/)| Valid Anagram | [Solution](./problems/0242_Valid_Anagram/valid_anagram.go) | 54.8% | Easy |
 |[0257](https://leetcode.com/problems/binary-tree-paths/)| Binary Tree Paths | [Solution](./problems/0257_Binary_Tree_Paths/binary_tree_paths.go) | 48.7% | Easy |
 |[0258](https://leetcode.com/problems/add-digits/)| Add Digits | [Solution](./problems/0258_Add_Digits/add_digits.go) | 55.4% | Easy |
+|[0263](https://leetcode.com/problems/ugly-number/)| Ugly Number | [Solution](./problems/0263_Ugly_Number/ugly_number.go) | 41.2% | Easy |
