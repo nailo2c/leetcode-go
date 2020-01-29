@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|43 |1  |1  |45  |
+|**Accepted**|44 |1  |1  |46  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -60,3 +60,4 @@ Golang Solutions and Tests for Leetcode
 |[0258](https://leetcode.com/problems/add-digits/)| Add Digits | [Solution](./problems/0258_Add_Digits/add_digits.go) | 55.4% | Easy |
 |[0263](https://leetcode.com/problems/ugly-number/)| Ugly Number | [Solution](./problems/0263_Ugly_Number/ugly_number.go) | 41.2% | Easy |
 |[0268](https://leetcode.com/problems/missing-number/)| Missing Number | [Solution](./problems/0268_Missing_Number/missing_number.go) | 50.1% | Easy |
+|[0283](https://leetcode.com/problems/move-zeroes/)| Move Zeroes | [Solution](./problems/0283_Move_Zeroes/move_zeroes.go) | 56.1%| Easy |
