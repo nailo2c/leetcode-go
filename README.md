@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|50 |1  |1  |52  |
+|**Accepted**|51 |1  |1  |53  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -37,6 +37,7 @@ Golang Solutions and Tests for Leetcode
 |[0136](https://leetcode.com/problems/single-number)| Single Number | [Solution](./problems/0136_Single_Number/single_number.go) | 62.6% | Easy |
 |[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle | [Solution](./problems/0141_Linked_List_Cycle/linked_list_cycle.go) | 39.3% | Easy |
 |[0155](https://leetcode.com/problems/min-stack)| Min Stack | [Solution](./problems/0155_Min_Stack/min_stack.go) | 40.5% | Easy |
+|[0160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists | [Solution](./problems/0160_Intersection_of_Two_Linked_Lists/intersection_of_two_linked_lists.go) | 37.5% | Easy |
 |[0168](https://leetcode.com/problems/excel-sheet-column-title)| Excel Sheet Column Title | [Solution](./problems/0168_Excel_Sheet_Column_Title/excel_sheet_column_title.go) | 30.1% | Easy |
 |[0171](https://leetcode.com/problems/excel-sheet-column-number)| Excel Sheet Column Number | [Solution](./problems/0171_Excel_Sheet_Column_Number/excel_sheet_column_number.go) | 53.1% | Easy |
 |[0172](https://leetcode.com/problems/factorial-trailing-zeroes)| Factorial Trailing Zeroes | [Solution](./problems/0172_Factorial_Trailing_Zeroes/factorial_trailing_zeroes.go) | 37.7% | Easy |
