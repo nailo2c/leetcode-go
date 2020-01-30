@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|47 |1  |1  |49  |
+|**Accepted**|48 |1  |1  |50  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -19,6 +19,7 @@ Golang Solutions and Tests for Leetcode
 |[0007](https://leetcode.com/problems/reverse-integer/)| Reverse Integer | [Solution](./problems/0007_Reverse_Integer/reverse_integer.go) | 25.6% | Easy |
 |[0009](https://leetcode.com/problems/palindrome-number/)| Palindrome Number | [Solution](./problems/0009_Palindrome_Number/palindrome_number.go) | 46.3% | Easy |
 |[0013](https://leetcode.com/problems/roman-to-integer/)| Roman to Integer | [Solution](./problems/0013_Roman_to_Integer/roman_to_integer.go) | 54.2% | Easy |
+|[0020](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses | [Solution](./problems/0020_Valid_Parentheses/valid_parentheses.go) | 38.0% | Easy |
 |[0036](https://leetcode.com/problems/valid-sudoku)| Valid Sudoku | [Solution](./problems/0036_Valid_Sudoku/valid_sudoku.go) | 46.3% | Medium |
 |[0037](https://leetcode.com/problems/sudoku-solver)| Sudoku Solver | [Solution](./problems/0037_Sudoku_Solver/sudoku_solver.go) | 40.4% | Hard |
 |[0038](https://leetcode.com/problems/count-and-say)| Count and Say | [Solution](./problems/0038_Count_and_Say/count_and_say.go) | 42.8% | Easy |
