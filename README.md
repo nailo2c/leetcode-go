@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|52 |1  |1  |54  |
+|**Accepted**|53 |1  |1  |55  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -69,3 +69,4 @@ Golang Solutions and Tests for Leetcode
 |[0290](https://leetcode.com/problems/word-pattern/)| Word Pattern | [Solution](./problems/0290_Word_Pattern/word_pattern.go) | 36.2% | Easy |
 |[0292](https://leetcode.com/problems/nim-game/)| Nim Game | [Solution](./problems/0292_Nim_Game/nim_game.go) | 56.0% | Easy |
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
+|[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
