@@ -24,6 +24,7 @@ Golang Solutions and Tests for Leetcode
 |[0013](https://leetcode.com/problems/roman-to-integer/)| Roman to Integer | [Solution](./problems/0013_Roman_to_Integer/roman_to_integer.go) | 54.2% | Easy |
 |[0020](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses | [Solution](./problems/0020_Valid_Parentheses/valid_parentheses.go) | 38.0% | Easy |
 |[0021](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | [Solution](./problems/0021_Merge_Two_Sorted_Lists/merge_two_sorted_lists.go) | 51.0% | Easy |
+|[0022](https://leetcode.com/problems/generate-parentheses/)| Generate Parentheses | [Solution](./problems/0022_Generate_Parentheses/generate_parentheses.go) | 59.3% | Medium |
 |[0036](https://leetcode.com/problems/valid-sudoku)| Valid Sudoku | [Solution](./problems/0036_Valid_Sudoku/valid_sudoku.go) | 46.3% | Medium |
 |[0037](https://leetcode.com/problems/sudoku-solver)| Sudoku Solver | [Solution](./problems/0037_Sudoku_Solver/sudoku_solver.go) | 40.4% | Hard |
 |[0038](https://leetcode.com/problems/count-and-say)| Count and Say | [Solution](./problems/0038_Count_and_Say/count_and_say.go) | 42.8% | Easy |
