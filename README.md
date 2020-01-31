@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|53 |1  |1  |55  |
+|**Accepted**|55 |1  |1  |57  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -71,3 +71,4 @@ Golang Solutions and Tests for Leetcode
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
 |[0437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III | [Solution](./problems/0437_Path_Sum_III/path_sum_iii.go) | 44.7% | Easy |
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
+|[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| Shortest Unsorted Continuous Subarray | [Solution](./problems/0581_Shortest_Unsorted_Continuous_Subarray/shortest_unsorted_continuous_subarray.go) | 30.7% | Easy |
