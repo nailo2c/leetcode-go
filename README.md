@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|56 |2  |1  |59  |
+|**Accepted**|56 |3  |1  |60  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -17,6 +17,7 @@ Golang Solutions and Tests for Leetcode
 |:-:|:-|:-: | :-: | :-: |
 |[0001](https://leetcode.com/problems/two-sum/)| Two Sum | [Solution](./problems/0001_Two_Sum/two_sum.go) | 45.0% | Easy |
 |[0002](https://leetcode.com/problems/add-two-numbers/)| Add Two Numbers | [Solution](./problems/0002_Add_Two_Numbers/add_two_numbers.go) | 32.6% | Medium |
+|[0003](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters | [Solution](./problems/0003_Longest_Substring_Without_Repeating_Characters/longest_substring_without_repeating_characters.go) | 29.5% | Medium |
 |[0007](https://leetcode.com/problems/reverse-integer/)| Reverse Integer | [Solution](./problems/0007_Reverse_Integer/reverse_integer.go) | 25.6% | Easy |
 |[0009](https://leetcode.com/problems/palindrome-number/)| Palindrome Number | [Solution](./problems/0009_Palindrome_Number/palindrome_number.go) | 46.3% | Easy |
 |[0013](https://leetcode.com/problems/roman-to-integer/)| Roman to Integer | [Solution](./problems/0013_Roman_to_Integer/roman_to_integer.go) | 54.2% | Easy |
