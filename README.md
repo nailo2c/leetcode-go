@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|56 |6  |1  |63  |
+|**Accepted**|56 |7  |1  |64  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -29,6 +29,7 @@ Golang Solutions and Tests for Leetcode
 |[0036](https://leetcode.com/problems/valid-sudoku)| Valid Sudoku | [Solution](./problems/0036_Valid_Sudoku/valid_sudoku.go) | 46.3% | Medium |
 |[0037](https://leetcode.com/problems/sudoku-solver)| Sudoku Solver | [Solution](./problems/0037_Sudoku_Solver/sudoku_solver.go) | 40.4% | Hard |
 |[0038](https://leetcode.com/problems/count-and-say)| Count and Say | [Solution](./problems/0038_Count_and_Say/count_and_say.go) | 42.8% | Easy |
+|[0039](https://leetcode.com/problems/combination-sum/)| Combination Sum | [Solution](./problems/0039_Combination_Sum/combination_sum.go) | 52.9% | Medium |
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
 |[0100](https://leetcode.com/problems/same-tree)| Same Tree | [Solution](./problems/0100_Same_Tree/same_tree.go) | 51.6% | Easy |
 |[0101](https://leetcode.com/problems/symmetric-tree)| Symmetric Tree | [Solution](./problems/0101_Symmetic_Tree/symmetric_tree.go) | 45.4% | Easy |
