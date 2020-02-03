@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|56 |9  |1  |66  |
+|**Accepted**|56 |9  |2  |67  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -18,6 +18,7 @@ Golang Solutions and Tests for Leetcode
 |[0001](https://leetcode.com/problems/two-sum/)| Two Sum | [Solution](./problems/0001_Two_Sum/two_sum.go) | 45.0% | Easy |
 |[0002](https://leetcode.com/problems/add-two-numbers/)| Add Two Numbers | [Solution](./problems/0002_Add_Two_Numbers/add_two_numbers.go) | 32.6% | Medium |
 |[0003](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters | [Solution](./problems/0003_Longest_Substring_Without_Repeating_Characters/longest_substring_without_repeating_characters.go) | 29.5% | Medium |
+|[0004](https://leetcode.com/problems/median-of-two-sorted-arrays/)| Median of Two Sorted Arrays | [Solution](./problems/0004_Median_of_Two_Sorted_Arrays/median_of_two_sorted_arrays.go) | 28.2% | Hard |
 |[0005](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring | [Solution](./problems/0005_Longest_Palindromic_Substring/longest_palindromic_substring.go) | 28.7% | Medium |
 |[0007](https://leetcode.com/problems/reverse-integer/)| Reverse Integer | [Solution](./problems/0007_Reverse_Integer/reverse_integer.go) | 25.6% | Easy |
 |[0009](https://leetcode.com/problems/palindrome-number/)| Palindrome Number | [Solution](./problems/0009_Palindrome_Number/palindrome_number.go) | 46.3% | Easy |
