@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|57 |10  |2  |69  |
+|**Accepted**|57 |11  |2  |70  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -29,13 +29,14 @@ Golang Solutions and Tests for Leetcode
 |[0020](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses | [Solution](./problems/0020_Valid_Parentheses/valid_parentheses.go) | 38.0% | Easy |
 |[0021](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | [Solution](./problems/0021_Merge_Two_Sorted_Lists/merge_two_sorted_lists.go) | 51.0% | Easy |
 |[0022](https://leetcode.com/problems/generate-parentheses/)| Generate Parentheses | [Solution](./problems/0022_Generate_Parentheses/generate_parentheses.go) | 59.3% | Medium |
-|[0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array | [Solution](./problems/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/find_first_and_last_position_of_element_in_sorted_array.go) | 46.3% | Medium |
+|[0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array | [Solution](./problems/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/find_first_and_last_position_of_element_in_sorted_array.go) | 35.0% | Medium |
 |[0036](https://leetcode.com/problems/valid-sudoku)| Valid Sudoku | [Solution](./problems/0036_Valid_Sudoku/valid_sudoku.go) | 46.3% | Medium |
 |[0037](https://leetcode.com/problems/sudoku-solver)| Sudoku Solver | [Solution](./problems/0037_Sudoku_Solver/sudoku_solver.go) | 40.4% | Hard |
 |[0038](https://leetcode.com/problems/count-and-say)| Count and Say | [Solution](./problems/0038_Count_and_Say/count_and_say.go) | 42.8% | Easy |
 |[0039](https://leetcode.com/problems/combination-sum/)| Combination Sum | [Solution](./problems/0039_Combination_Sum/combination_sum.go) | 52.9% | Medium |
 |[0046](https://leetcode.com/problems/permutations/)| Permutations | [Solution](./problems/0046_Permutations/permutations.go) | 59.8% | Medium |
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
+|[0078](https://leetcode.com/problems/subsets/)| Subsets | [Solution](./problems/0078_Subsets/subsets.go) | 57.5% | Medium |
 |[0100](https://leetcode.com/problems/same-tree)| Same Tree | [Solution](./problems/0100_Same_Tree/same_tree.go) | 51.6% | Easy |
 |[0101](https://leetcode.com/problems/symmetric-tree)| Symmetric Tree | [Solution](./problems/0101_Symmetic_Tree/symmetric_tree.go) | 45.4% | Easy |
 |[0104](https://leetcode.com/problems/maximum-depth-of-binary-tree)| Maximum Depth of Binary Tree | [Solution](./problems/0104_Maximum_Depth_of_Binary_Tree/maximum_depth_of_binary_tree.go) | 63.6% | Easy |
