@@ -31,12 +31,13 @@ Golang Solutions and Tests for Leetcode
 |[0021](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | [Solution](./problems/0021_Merge_Two_Sorted_Lists/merge_two_sorted_lists.go) | 51.0% | Easy |
 |[0022](https://leetcode.com/problems/generate-parentheses/)| Generate Parentheses | [Solution](./problems/0022_Generate_Parentheses/generate_parentheses.go) | 59.3% | Medium |
 |[0031](https://leetcode.com/problems/next-permutation/)| Next Permutation | [Solution](./problems/0031_Next_Permutation/next_permutation.go) | 31.7% | Medium |
+|[0033](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Search in Rotated Sorted Array | [Solution](./problems/0033_Search_in_Rotated_Sorted_Array/search_in_rotated_sorted_array.go) | 33.6% | Medium |
 |[0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array | [Solution](./problems/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/find_first_and_last_position_of_element_in_sorted_array.go) | 35.0% | Medium |
 |[0036](https://leetcode.com/problems/valid-sudoku)| Valid Sudoku | [Solution](./problems/0036_Valid_Sudoku/valid_sudoku.go) | 46.3% | Medium |
 |[0037](https://leetcode.com/problems/sudoku-solver)| Sudoku Solver | [Solution](./problems/0037_Sudoku_Solver/sudoku_solver.go) | 40.4% | Hard |
 |[0038](https://leetcode.com/problems/count-and-say)| Count and Say | [Solution](./problems/0038_Count_and_Say/count_and_say.go) | 42.8% | Easy |
 |[0039](https://leetcode.com/problems/combination-sum/)| Combination Sum | [Solution](./problems/0039_Combination_Sum/combination_sum.go) | 52.9% | Medium |
-|[0046](https://leetcode.com/problems/permutations/)| Permutations | [Solution](./problems/0046_Permutations/permutations.go) | 59.8% | Medium |
+|[0046](https://leetcode.com/problems/permutations/)| Permutations | [Solution](./problems/0046_Permutations/permutations.go) | 31.7% | Medium |
 |[0048](https://leetcode.com/problems/rotate-image/)| Rotate Image | [Solution](./problems/0048_Rotate_Image/rotate_image.go) | 53.0% | Medium |
 |[0064](https://leetcode.com/problems/minimum-path-sum/)| Minimum Path Sum | [Solution](./problems/0064_Minimum_Path_Sum/minimum_path_sum.go) | 50.6% | Medium |
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
