@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|57 |15  |2  |74 |
+|**Accepted**|57 |16  |2  |75 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -39,6 +39,7 @@ Golang Solutions and Tests for Leetcode
 |[0039](https://leetcode.com/problems/combination-sum/)| Combination Sum | [Solution](./problems/0039_Combination_Sum/combination_sum.go) | 52.9% | Medium |
 |[0046](https://leetcode.com/problems/permutations/)| Permutations | [Solution](./problems/0046_Permutations/permutations.go) | 31.7% | Medium |
 |[0048](https://leetcode.com/problems/rotate-image/)| Rotate Image | [Solution](./problems/0048_Rotate_Image/rotate_image.go) | 53.0% | Medium |
+|[0049](https://leetcode.com/problems/group-anagrams/)| Group Anagrams | [Solution](./problems/0049_Group_Anagrams/group_anagrams.go) | 52.3% | Medium |
 |[0064](https://leetcode.com/problems/minimum-path-sum/)| Minimum Path Sum | [Solution](./problems/0064_Minimum_Path_Sum/minimum_path_sum.go) | 50.6% | Medium |
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
 |[0078](https://leetcode.com/problems/subsets/)| Subsets | [Solution](./problems/0078_Subsets/subsets.go) | 57.5% | Medium |
