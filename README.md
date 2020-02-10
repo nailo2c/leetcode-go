@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|57 |18  |2  |77 |
+|**Accepted**|57 |19  |2  |78 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -92,3 +92,4 @@ Golang Solutions and Tests for Leetcode
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
 |[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| Shortest Unsorted Continuous Subarray | [Solution](./problems/0581_Shortest_Unsorted_Continuous_Subarray/shortest_unsorted_continuous_subarray.go) | 30.7% | Easy |
 |[0617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees | [Solution](./problems/0617_Merge_Two_Binary_Trees/merge_two_binary_trees.go) | 72.4% | Easy |
+|[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
