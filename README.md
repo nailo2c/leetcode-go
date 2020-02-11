@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|57 |20  |2  |79 |
+|**Accepted**|57 |21  |2  |80 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -91,6 +91,7 @@ Golang Solutions and Tests for Leetcode
 |[0437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III | [Solution](./problems/0437_Path_Sum_III/path_sum_iii.go) | 44.7% | Easy |
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
 |[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| Shortest Unsorted Continuous Subarray | [Solution](./problems/0581_Shortest_Unsorted_Continuous_Subarray/shortest_unsorted_continuous_subarray.go) | 30.7% | Easy |
-|[0617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees | [Solution](./problems/0617_Merge_Two_Binary_Trees/merge_two_binary_trees.go) | 72.4% | Easy |
+|[0617](https://leetcode.com/problems/merge-two-binary-trees/)| Task Scheduler | [Solution](./problems/0617_Merge_Two_Binary_Trees/merge_two_binary_trees.go) | 72.4% | Easy |
+|[0621](https://leetcode.com/problems/task-scheduler/)| Merge Two Binary Trees | [Solution](./problems/0621_Task_Scheduler/task_scheduler.go) | 47.5% | Medium |
 |[0647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings | [Solution](./problems/0647_Palindromic_Substrings/palindromic_substrings.go) | 59.1% | Medium |
 |[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
