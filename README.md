@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|57 |21  |2  |80 |
+|**Accepted**|57 |22  |2  |81 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -88,6 +88,7 @@ Golang Solutions and Tests for Leetcode
 |[0290](https://leetcode.com/problems/word-pattern/)| Word Pattern | [Solution](./problems/0290_Word_Pattern/word_pattern.go) | 36.2% | Easy |
 |[0292](https://leetcode.com/problems/nim-game/)| Nim Game | [Solution](./problems/0292_Nim_Game/nim_game.go) | 56.0% | Easy |
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
+|[0338](https://leetcode.com/problems/counting-bits/)| Counting Bits | [Solution](./problems/0338_Counting_Bits/counting_bits.go) | 66.7% | Medium |
 |[0437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III | [Solution](./problems/0437_Path_Sum_III/path_sum_iii.go) | 44.7% | Easy |
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
 |[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| Shortest Unsorted Continuous Subarray | [Solution](./problems/0581_Shortest_Unsorted_Continuous_Subarray/shortest_unsorted_continuous_subarray.go) | 30.7% | Easy |
