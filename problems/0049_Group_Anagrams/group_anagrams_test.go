@@ -1,6 +1,7 @@
 package problem0049
 
 import (
+	"sort"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
@@ -29,9 +30,9 @@ func Test_Problem0049(t *testing.T) {
 			},
 			a: ans{
 				one: [][]string{
-					{"eat", "tea", "ate"},
-					{"tan", "nat"},
 					{"bat"},
+					{"nat", "tan"},
+					{"ate", "eat", "tea"},
 				},
 			},
 		},
@@ -39,6 +40,10 @@ func Test_Problem0049(t *testing.T) {
 
 	for _, q := range qs {
 		a, p := q.a, q.p
-		ast.Equal(a.one, groupAnagrams(p.one))
+		res := groupAnagrams(p.one)
+		for _, v := range res {
+			sort.Strings(v)
+			ast.Equal(a.one[len(v)-1], v)
+		}
 	}
 }
