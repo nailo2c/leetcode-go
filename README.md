@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |24  |2  |84 |
+|**Accepted**|58 |25  |2  |85 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -90,6 +90,7 @@ Golang Solutions and Tests for Leetcode
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
 |[0338](https://leetcode.com/problems/counting-bits/)| Counting Bits | [Solution](./problems/0338_Counting_Bits/counting_bits.go) | 66.7% | Medium |
 |[0437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III | [Solution](./problems/0437_Path_Sum_III/path_sum_iii.go) | 44.7% | Easy |
+|[0438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| Find All Anagrams in a String | [Solution](./problems/0438_Find_All_Anagrams_in_a_String/find_all_anagrams_in_a_string.go) | 40.3% | Medium |
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
 |[0494](https://leetcode.com/problems/target-sum/)| Target Sum | [Solution](./problems/0494_Target_Sum/target_sum.go) | 46.3% | Medium |
 |[0543](https://leetcode.com/problems/diameter-of-binary-tree/)| Diameter of Binary Tree | [Solution](./problems/0543_Diameter_of_Binary_Tree/diameter_of_binary_tree.go) | 48.2% | Easy |
