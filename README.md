@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |29  |2  |89 |
+|**Accepted**|58 |30  |2  |90 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -87,6 +87,7 @@ Golang Solutions and Tests for Leetcode
 |[0263](https://leetcode.com/problems/ugly-number/)| Ugly Number | [Solution](./problems/0263_Ugly_Number/ugly_number.go) | 41.2% | Easy |
 |[0268](https://leetcode.com/problems/missing-number/)| Missing Number | [Solution](./problems/0268_Missing_Number/missing_number.go) | 50.1% | Easy |
 |[0283](https://leetcode.com/problems/move-zeroes/)| Move Zeroes | [Solution](./problems/0283_Move_Zeroes/move_zeroes.go) | 56.1% | Easy |
+|[0287](https://leetcode.com/problems/find-the-duplicate-number/)| Find the Duplicate Number | [Solution](./problems/0287_Find_the_Duplicate_Number/find_the_duplicate_number.go) | 52.6% | Medium |
 |[0290](https://leetcode.com/problems/word-pattern/)| Word Pattern | [Solution](./problems/0290_Word_Pattern/word_pattern.go) | 36.2% | Easy |
 |[0292](https://leetcode.com/problems/nim-game/)| Nim Game | [Solution](./problems/0292_Nim_Game/nim_game.go) | 56.0% | Easy |
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
