@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |34 |2  |94  |
+|**Accepted**|58 |35 |2  |95  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -109,3 +109,4 @@ Golang Solutions and Tests for Leetcode
 |[0621](https://leetcode.com/problems/task-scheduler/)| Merge Two Binary Trees | [Solution](./problems/0621_Task_Scheduler/task_scheduler.go) | 47.5% | Medium |
 |[0647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings | [Solution](./problems/0647_Palindromic_Substrings/palindromic_substrings.go) | 59.1% | Medium |
 |[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
+|[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence | [Solution](./problems/1143_Longest_Common_Subsequence/longest_common_subsequence.go) | 57.7% | Medium |
