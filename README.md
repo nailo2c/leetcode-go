@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |35 |2  |95  |
+|**Accepted**|58 |36 |2  |96  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -41,6 +41,7 @@ Golang Solutions and Tests for Leetcode
 |[0048](https://leetcode.com/problems/rotate-image/)| Rotate Image | [Solution](./problems/0048_Rotate_Image/rotate_image.go) | 53.0% | Medium |
 |[0049](https://leetcode.com/problems/group-anagrams/)| Group Anagrams | [Solution](./problems/0049_Group_Anagrams/group_anagrams.go) | 52.3% | Medium |
 |[0055](https://leetcode.com/problems/jump-game/)| Jump Game | [Solution](./problems/0055_Jump_Game/jump_game.go) | 33.1% | Medium |
+|[0062](https://leetcode.com/problems/unique-paths/)| Unique Paths | [Solution](./problems/0062_Unique_Paths/unique_paths.go) | 51.5% | Medium |
 |[0064](https://leetcode.com/problems/minimum-path-sum/)| Minimum Path Sum | [Solution](./problems/0064_Minimum_Path_Sum/minimum_path_sum.go) | 50.6% | Medium |
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
 |[0078](https://leetcode.com/problems/subsets/)| Subsets | [Solution](./problems/0078_Subsets/subsets.go) | 57.5% | Medium |
@@ -54,6 +55,7 @@ Golang Solutions and Tests for Leetcode
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| Pascal's Triangle II | [Solution](./problems/0119_Pascals_Triangle_II/pascals_triangle_ii.go) | 46.6% | Easy |
 |[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| Best Time to Buy and Sell Stock | [Solution](./problems/0121_Best_Time_to_Buy_and_Sell_Stock/best_time_to_buy_and_sell_stock.go) | 49.1% | Easy |
 |[0136](https://leetcode.com/problems/single-number)| Single Number | [Solution](./problems/0136_Single_Number/single_number.go) | 62.6% | Easy |
+|[0139](https://leetcode.com/problems/word-break/)| Word Break | [Solution](./problems/0139_Word_Break/word_break.go) | 38.3% | Medium |
 |[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle | [Solution](./problems/0141_Linked_List_Cycle/linked_list_cycle.go) | 39.3% | Easy |
 |[0155](https://leetcode.com/problems/min-stack)| Min Stack | [Solution](./problems/0155_Min_Stack/min_stack.go) | 40.5% | Easy |
 |[0160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists | [Solution](./problems/0160_Intersection_of_Two_Linked_Lists/intersection_of_two_linked_lists.go) | 37.5% | Easy |
