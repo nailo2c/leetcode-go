@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |37 |2  |97  |
+|**Accepted**|58 |38 |2  |98  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -57,6 +57,7 @@ Golang Solutions and Tests for Leetcode
 |[0136](https://leetcode.com/problems/single-number)| Single Number | [Solution](./problems/0136_Single_Number/single_number.go) | 62.6% | Easy |
 |[0139](https://leetcode.com/problems/word-break/)| Word Break | [Solution](./problems/0139_Word_Break/word_break.go) | 38.3% | Medium |
 |[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle | [Solution](./problems/0141_Linked_List_Cycle/linked_list_cycle.go) | 39.3% | Easy |
+|[0148](https://leetcode.com/problems/sort-list/)| Sort List | [Solution](./problems/0148_Sort_List/sort_list.go) | 39.8% | Medium |
 |[0155](https://leetcode.com/problems/min-stack)| Min Stack | [Solution](./problems/0155_Min_Stack/min_stack.go) | 40.5% | Easy |
 |[0160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists | [Solution](./problems/0160_Intersection_of_Two_Linked_Lists/intersection_of_two_linked_lists.go) | 37.5% | Easy |
 |[0168](https://leetcode.com/problems/excel-sheet-column-title)| Excel Sheet Column Title | [Solution](./problems/0168_Excel_Sheet_Column_Title/excel_sheet_column_title.go) | 30.1% | Easy |
