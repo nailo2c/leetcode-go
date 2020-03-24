@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |38 |2  |98  |
+|**Accepted**|58 |39 |2  |99  |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -97,6 +97,7 @@ Golang Solutions and Tests for Leetcode
 |[0290](https://leetcode.com/problems/word-pattern/)| Word Pattern | [Solution](./problems/0290_Word_Pattern/word_pattern.go) | 36.2% | Easy |
 |[0292](https://leetcode.com/problems/nim-game/)| Nim Game | [Solution](./problems/0292_Nim_Game/nim_game.go) | 56.0% | Easy |
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
+|[0300](https://leetcode.com/problems/longest-increasing-subsequence/)| Longest Increasing Subsequence | [Solution](./problems/0300_Longest_Increasing_Subsequence/longest_increasing_subsequence.go) | 42.0% | Medium |
 |[0322](https://leetcode.com/problems/coin-change/)| Coin Change | [Solution](./problems/0322_Coin_Change/coin_change.go) | 33.6% | Medium |
 |[0338](https://leetcode.com/problems/counting-bits/)| Counting Bits | [Solution](./problems/0338_Counting_Bits/counting_bits.go) | 66.7% | Medium |
 |[0347](https://leetcode.com/problems/top-k-frequent-elements/)| Top K Frequent Elements | [Solution](./problems/0347_Top_K_Frequent_Elements/top_k_frequent_elements.go) | 58.9% | Medium |
