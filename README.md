@@ -76,7 +76,7 @@ Golang Solutions and Tests for Leetcode
 |[0205](https://leetcode.com/problems/isomorphic-strings/)| Isomorphic Strings | [Solution](./problems/0205_Isomorphic_Strings/isomorphic_strings.go) | 38.9% | Easy |
 |[0206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List | [Solution](./problems/0206_Reverse_Linked_List/reverse_linked_list.go) | 59.1% | Easy |
 |[0207](https://leetcode.com/problems/course-schedule/)| Course Schedule | [Solution](./problems/0207_Course_Schedule/course_schedule.go) | 40.9%| Medium |
-|[0215](hhttps://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array | [Solution](./problems/0215_Kth_Largest_Element_in_an_Array/kth_largest_element_in_an_array.go) | 52.4% | Medium |
+|[0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array | [Solution](./problems/0215_Kth_Largest_Element_in_an_Array/kth_largest_element_in_an_array.go) | 52.4% | Medium |
 |[0217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate | [Solution](./problems/0217_Contains_Duplicate/contains_duplicate.go) | 54.6% | Easy |
 |[0219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II | [Solution](./problems/0219_Contains_Duplicate_II/contains_duplicate_ii.go) | 36.6% | Easy |
 |[0225](https://leetcode.com/problems/implement-stack-using-queues/)| Implement Stack using Queues | [Solution](./problems/0225_Implement_Stack_using_Queues/implement_stack_using_queues.go) | 42.4% | Easy |
