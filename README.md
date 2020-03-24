@@ -47,6 +47,7 @@ Golang Solutions and Tests for Leetcode
 |[0078](https://leetcode.com/problems/subsets/)| Subsets | [Solution](./problems/0078_Subsets/subsets.go) | 57.5% | Medium |
 |[0100](https://leetcode.com/problems/same-tree)| Same Tree | [Solution](./problems/0100_Same_Tree/same_tree.go) | 51.6% | Easy |
 |[0101](https://leetcode.com/problems/symmetric-tree)| Symmetric Tree | [Solution](./problems/0101_Symmetic_Tree/symmetric_tree.go) | 45.4% | Easy |
+|[0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal | [Solution](./problems/0102_Binary_Tree_Level_Order_Traversal/binary_tree_level_order_traversal.go) | 52.5% | Medium |
 |[0104](https://leetcode.com/problems/maximum-depth-of-binary-tree)| Maximum Depth of Binary Tree | [Solution](./problems/0104_Maximum_Depth_of_Binary_Tree/maximum_depth_of_binary_tree.go) | 63.6% | Easy |
 |[0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)| Binary Tree Level Order Traversal II | [Solution](./problems/0107_Binary_Tree_Level_Order_Traversal_II/binary_tree_level_order_traversal_ii.go) | 49.6% | Easy |
 |[0108](https://leetcode.com/problems/path-sum/)| Convert Sorted Array to Binary Search Tree | [Solution](./problems/0108_Convert_Sorted_Array_to_Binary_Search_Tree/convert_sorted_array_to_binary_search_tree.go) | 54.6% | Easy |
