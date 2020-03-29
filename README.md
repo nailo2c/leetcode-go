@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |42 |2  |102 |
+|**Accepted**|58 |43 |2  |103 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -46,6 +46,7 @@ Golang Solutions and Tests for Leetcode
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
 |[0078](https://leetcode.com/problems/subsets/)| Subsets | [Solution](./problems/0078_Subsets/subsets.go) | 57.5% | Medium |
 |[0094](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal | [Solution](./problems/0094_Binary_Tree_Inorder_Traversal/binary_tree_inorder_traversal.go) | 61.2% | Medium |
+|[0096](https://leetcode.com/problems/unique-binary-search-trees/)| Unique Binary Search Trees | [Solution](./problems/0096_Unique_Binary_Search_Trees/unique_binary_search_trees.go) | 50.0% | Medium |
 |[0100](https://leetcode.com/problems/same-tree)| Same Tree | [Solution](./problems/0100_Same_Tree/same_tree.go) | 51.6% | Easy |
 |[0101](https://leetcode.com/problems/symmetric-tree)| Symmetric Tree | [Solution](./problems/0101_Symmetic_Tree/symmetric_tree.go) | 45.4% | Easy |
 |[0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)| Binary Tree Level Order Traversal | [Solution](./problems/0102_Binary_Tree_Level_Order_Traversal/binary_tree_level_order_traversal.go) | 52.5% | Medium |
