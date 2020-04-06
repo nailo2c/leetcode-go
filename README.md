@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|58 |43 |2  |103 |
+|**Accepted**|59 |43 |2  |104 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -58,6 +58,7 @@ Golang Solutions and Tests for Leetcode
 |[0118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle | [Solution](./problems/0118_Pascals_Triangle/pascals_triangle.go) | 49.6% | Easy |
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| Pascal's Triangle II | [Solution](./problems/0119_Pascals_Triangle_II/pascals_triangle_ii.go) | 46.6% | Easy |
 |[0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| Best Time to Buy and Sell Stock | [Solution](./problems/0121_Best_Time_to_Buy_and_Sell_Stock/best_time_to_buy_and_sell_stock.go) | 49.1% | Easy |
+|[0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| Best Time to Buy and Sell Stock II | [Solution](./problems/0122_Best_Time_to_Buy_and_Sell_Stock_II/best_time_to_buy_and_sell_stock_ii.go) | 55.5% | Easy |
 |[0136](https://leetcode.com/problems/single-number)| Single Number | [Solution](./problems/0136_Single_Number/single_number.go) | 62.6% | Easy |
 |[0139](https://leetcode.com/problems/word-break/)| Word Break | [Solution](./problems/0139_Word_Break/word_break.go) | 38.3% | Medium |
 |[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle | [Solution](./problems/0141_Linked_List_Cycle/linked_list_cycle.go) | 39.3% | Easy |

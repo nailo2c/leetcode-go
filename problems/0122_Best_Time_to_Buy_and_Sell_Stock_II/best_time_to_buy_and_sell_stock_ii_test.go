@@ -1,4 +1,4 @@
-package problem0121
+package problem0122
 
 import (
 	"testing"
@@ -19,7 +19,7 @@ type question struct {
 	a ans
 }
 
-func Test_Problem0121(t *testing.T) {
+func Test_Problem0122(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
@@ -28,7 +28,7 @@ func Test_Problem0121(t *testing.T) {
 				one: []int{7, 1, 5, 3, 6, 4},
 			},
 			a: ans{
-				one: 5,
+				one: 7,
 			},
 		},
 		question{
@@ -37,6 +37,14 @@ func Test_Problem0121(t *testing.T) {
 			},
 			a: ans{
 				one: 0,
+			},
+		},
+		question{
+			p: para{
+				one: []int{1, 2, 3, 4, 5},
+			},
+			a: ans{
+				one: 4,
 			},
 		},
 	}
