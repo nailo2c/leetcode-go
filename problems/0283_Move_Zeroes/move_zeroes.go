@@ -1,18 +1,18 @@
 package problem0283
 
 func moveZeroes(nums []int) {
-	l := len(nums)
-	i, j := 0, 0
-	for j < l {
-		if nums[j] != 0 {
-			nums[i] = nums[j]
-			i++
+	zeroCount := 0
+	for i := 0; i < len(nums); i++ {
+		if nums[i] == 0 {
+			zeroCount++
 		}
-		j++
-	}
 
-	for i < l {
-		nums[i] = 0
-		i++
+		if nums[i] != 0 && zeroCount != 0 {
+			swap(nums, i, i-zeroCount)
+		}
 	}
+}
+
+func swap(nums []int, i, j int) {
+	nums[i], nums[j] = nums[j], nums[i]
 }
