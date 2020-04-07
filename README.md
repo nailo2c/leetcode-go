@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|59 |43 |2  |104 |
+|**Accepted**|60 |43 |2  |105 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -40,6 +40,7 @@ Golang Solutions and Tests for Leetcode
 |[0046](https://leetcode.com/problems/permutations/)| Permutations | [Solution](./problems/0046_Permutations/permutations.go) | 31.7% | Medium |
 |[0048](https://leetcode.com/problems/rotate-image/)| Rotate Image | [Solution](./problems/0048_Rotate_Image/rotate_image.go) | 53.0% | Medium |
 |[0049](https://leetcode.com/problems/group-anagrams/)| Group Anagrams | [Solution](./problems/0049_Group_Anagrams/group_anagrams.go) | 52.3% | Medium |
+|[0053](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | [Solution](./problems/0053_Maximum_Subarray/maximum_subarray.go) | 45.9% | Easy |
 |[0055](https://leetcode.com/problems/jump-game/)| Jump Game | [Solution](./problems/0055_Jump_Game/jump_game.go) | 33.1% | Medium |
 |[0062](https://leetcode.com/problems/unique-paths/)| Unique Paths | [Solution](./problems/0062_Unique_Paths/unique_paths.go) | 51.5% | Medium |
 |[0064](https://leetcode.com/problems/minimum-path-sum/)| Minimum Path Sum | [Solution](./problems/0064_Minimum_Path_Sum/minimum_path_sum.go) | 50.6% | Medium |
