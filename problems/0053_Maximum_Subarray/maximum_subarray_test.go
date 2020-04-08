@@ -25,7 +25,7 @@ func Test_Problem0053(t *testing.T) {
 	qs := []question{
 		question{
 			p: para{
-				one: []int{-2,1,-3,4,-1,2,1,-5,4},
+				one: []int{-2, 1, -3, 4, -1, 2, 1, -5, 4},
 			},
 			a: ans{
 				one: 6,
