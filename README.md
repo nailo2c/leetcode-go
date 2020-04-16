@@ -126,7 +126,7 @@ Golang Solutions and Tests for Leetcode
 |[0647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings | [Solution](./problems/0647_Palindromic_Substrings/palindromic_substrings.go) | 59.1% | Medium |
 |[0678](https://leetcode.com/problems/valid-parenthesis-string/)| Valid Parenthesis String | [Solution](./problems/0678_Valid_Parenthesis_String/valid_parenthesis_string.go) | 32.9% | Medium |
 |[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
-|[844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare | [Solution](./problems/0844_Backspace_String_Compare/backspace_string_compare.go) | 	47.4% | Easy |
-|[876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List | [Solution](./problems/0876_Middle_of_the_Linked_List/middle_of_the_linked_list.go) | 68.0% | Easy |
+|[0844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare | [Solution](./problems/0844_Backspace_String_Compare/backspace_string_compare.go) | 47.4% | Easy |
+|[0876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List | [Solution](./problems/0876_Middle_of_the_Linked_List/middle_of_the_linked_list.go) | 68.0% | Easy |
 |[1046](https://leetcode.com/problems/last-stone-weight/)| Last Stone Weight | [Solution](./problems/1046_Last_Stone_Weight/last_stone_weight.go) | 63.3% | Easy |
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence | [Solution](./problems/1143_Longest_Common_Subsequence/longest_common_subsequence.go) | 57.7% | Medium |
