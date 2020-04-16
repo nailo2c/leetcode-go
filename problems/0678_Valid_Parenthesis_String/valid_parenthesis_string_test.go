@@ -1,4 +1,4 @@
-package problem0191
+package problem0678
 
 import (
 	"testing"
@@ -7,11 +7,11 @@ import (
 )
 
 type para struct {
-	one uint32
+	one string
 }
 
 type ans struct {
-	one int
+	one bool
 }
 
 type question struct {
@@ -19,38 +19,46 @@ type question struct {
 	a ans
 }
 
-func Test_Problem0191(t *testing.T) {
+func Test_Problem0678(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
 		{
 			p: para{
-				one: 11,
+				one: "()",
 			},
 			a: ans{
-				one: 3,
+				one: true,
 			},
 		},
 		{
 			p: para{
-				one: 128,
+				one: "(*)",
 			},
 			a: ans{
-				one: 1,
+				one: true,
 			},
 		},
 		{
 			p: para{
-				one: 4294967293,
+				one: "(*()",
 			},
 			a: ans{
-				one: 31,
+				one: true,
+			},
+		},
+		{
+			p: para{
+				one: ")",
+			},
+			a: ans{
+				one: false,
 			},
 		},
 	}
 
 	for _, q := range qs {
 		a, p := q.a, q.p
-		ast.Equal(a.one, hammingWeight(p.one))
+		ast.Equal(a.one, checkValidString(p.one))
 	}
 }
