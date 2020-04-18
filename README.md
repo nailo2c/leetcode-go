@@ -64,7 +64,7 @@ Golang Solutions and Tests for Leetcode
 |[0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| Best Time to Buy and Sell Stock II | [Solution](./problems/0122_Best_Time_to_Buy_and_Sell_Stock_II/best_time_to_buy_and_sell_stock_ii.go) | 55.5% | Easy |
 |[0136](https://leetcode.com/problems/single-number)| Single Number | [Solution](./problems/0136_Single_Number/single_number.go) | 62.6% | Easy |
 |[0139](https://leetcode.com/problems/word-break/)| Word Break | [Solution](./problems/0139_Word_Break/word_break.go) | 38.3% | Medium |
-|[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle |
+|[0141](https://leetcode.com/problems/linked-list-cycle)| Linked List Cycle | [Solution](./problems/0141_Linked_List_Cycle/linked_list_cycle.go) | 40.1% | Easy |
 |[0142](https://leetcode.com/problems/linked-list-cycle-ii/)| Linked List Cycle II | [Solution](./problems/0142_Linked_List_Cycle_II/linked_list_cycle_ii.go) | 35.8% | Medium |
 |[0148](https://leetcode.com/problems/sort-list/)| Sort List | [Solution](./problems/0148_Sort_List/sort_list.go) | 39.8% | Medium |
 |[0152](https://leetcode.com/problems/maximum-product-subarray/)| Maximum Product Subarray | [Solution](./problems/0152_Maximum_Product_Subarray/maximum_product_subarray.go) | 31.0% | Medium |
