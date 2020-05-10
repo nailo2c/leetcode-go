@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|63 |53 |3  |119 |
+|**Accepted**|64 |53 |3  |120 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -131,6 +131,7 @@ Golang Solutions and Tests for Leetcode
 |[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
 |[0844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare | [Solution](./problems/0844_Backspace_String_Compare/backspace_string_compare.go) | 47.4% | Easy |
 |[0876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List | [Solution](./problems/0876_Middle_of_the_Linked_List/middle_of_the_linked_list.go) | 68.0% | Easy |
+|[0997](https://leetcode.com/problems/find-the-town-judge/)|  Find the Town Judge | [Solution](./problems/0997_Find_the_Town_Judge/find_the_town_judge.go) | 50.4% | Easy |
 |[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|  Construct Binary Search Tree from Preorder Traversal | [Solution](./problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/construct_binary_search_tree_from_preorder_traversal.go) | 76.1% | Medium |
 |[1046](https://leetcode.com/problems/last-stone-weight/)| Last Stone Weight | [Solution](./problems/1046_Last_Stone_Weight/last_stone_weight.go) | 63.3% | Easy |
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence | [Solution](./problems/1143_Longest_Common_Subsequence/longest_common_subsequence.go) | 57.7% | Medium |
