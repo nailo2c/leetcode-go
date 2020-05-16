@@ -26,7 +26,7 @@ Golang Solutions and Tests for Leetcode
 |[0012](https://leetcode.com/problems/integer-to-roman/)| Integer to Roman | [Solution](./problems/0012_Integer_to_Roman/integer_to_roman.go) | 53.4% | Medium |
 |[0013](https://leetcode.com/problems/roman-to-integer/)| Roman to Integer | [Solution](./problems/0013_Roman_to_Integer/roman_to_integer.go) | 54.2% | Easy |
 |[0014](https://leetcode.com/problems/longest-common-prefix/)| Longest Common Prefix | [Solution](./problems/0014_Longest_Common_Prefix/longest_common_prefix.go) | 34.6% | Easy |
-|[0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List | [Solution](./problems/0019_Remove_Nth_Node_From_End_of_List/remove_nth_node_from_end_of_list.go) | 	34.8% | Medium |
+|[0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List | [Solution](./problems/0019_Remove_Nth_Node_From_End_of_List/remove_nth_node_from_end_of_list.go) | 34.8% | Medium |
 |[0020](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses | [Solution](./problems/0020_Valid_Parentheses/valid_parentheses.go) | 38.0% | Easy |
 |[0021](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | [Solution](./problems/0021_Merge_Two_Sorted_Lists/merge_two_sorted_lists.go) | 51.0% | Easy |
 |[0022](https://leetcode.com/problems/generate-parentheses/)| Generate Parentheses | [Solution](./problems/0022_Generate_Parentheses/generate_parentheses.go) | 59.3% | Medium |
