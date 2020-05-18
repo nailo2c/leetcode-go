@@ -112,6 +112,7 @@ Golang Solutions and Tests for Leetcode
 |[0299](https://leetcode.com/problems/bulls-and-cows/)| Bulls and Cows | [Solution](./problems/0299_Bulls_and_Cows/bulls_and_cows.go) | 41.3% | Easy |
 |[0300](https://leetcode.com/problems/longest-increasing-subsequence/)| Longest Increasing Subsequence | [Solution](./problems/0300_Longest_Increasing_Subsequence/longest_increasing_subsequence.go) | 42.0% | Medium |
 |[0309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| Best Time to Buy and Sell Stock with Cooldown | [Solution](./problems/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/best_time_to_buy_and_sell_stock_with_cooldown.go) | 45.7% | Medium |
+|[0312](https://leetcode.com/problems/burst-balloons/)| Burst Balloons | [Solution](./problems/0312_Burst_Balloons/burst_balloons.go) | 50.8% | Hard |
 |[0322](https://leetcode.com/problems/coin-change/)| Coin Change | [Solution](./problems/0322_Coin_Change/coin_change.go) | 33.6% | Medium |
 |[0328](https://leetcode.com/problems/odd-even-linked-list/)| Odd Even Linked List | [Solution](./problems/0328_Odd_Even_Linked_List/odd_even_linked_list.go) | 53.3% | Medium |
 |[0338](https://leetcode.com/problems/counting-bits/)| Counting Bits | [Solution](./problems/0338_Counting_Bits/counting_bits.go) | 66.7% | Medium |
