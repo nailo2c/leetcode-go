@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|64 |55 |3  |122 |
+|**Accepted**|64 |56 |3  |123 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -126,6 +126,7 @@ Golang Solutions and Tests for Leetcode
 |[0525](https://leetcode.com/problems/contiguous-array/)| Contiguous Array | [Solution](./problems/0525_Contiguous_Array/contiguous_array.go) | 42.5% | Medium |
 |[0543](https://leetcode.com/problems/diameter-of-binary-tree/)| Diameter of Binary Tree | [Solution](./problems/0543_Diameter_of_Binary_Tree/diameter_of_binary_tree.go) | 48.2% | Easy |
 |[0560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K | [Solution](./problems/0560_Subarray_Sum_Equals_K/subarray_sum_equals_k.go) | 43.5% | Medium |
+|[0567](https://leetcode.com/problems/permutation-in-string/)| Permutation in String | [Solution](./problems/0567_Permutation_in_String/permutation_in_string.go) | 43.0% | Medium |
 |[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| Shortest Unsorted Continuous Subarray | [Solution](./problems/0581_Shortest_Unsorted_Continuous_Subarray/shortest_unsorted_continuous_subarray.go) | 30.7% | Easy |
 |[0617](https://leetcode.com/problems/merge-two-binary-trees/)| Task Scheduler | [Solution](./problems/0617_Merge_Two_Binary_Trees/merge_two_binary_trees.go) | 72.4% | Easy |
 |[0621](https://leetcode.com/problems/task-scheduler/)| Merge Two Binary Trees | [Solution](./problems/0621_Task_Scheduler/task_scheduler.go) | 47.5% | Medium |
