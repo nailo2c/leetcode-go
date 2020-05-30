@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|64 |56 |4  |124 |
+|**Accepted**|64 |57 |4  |125 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -134,6 +134,7 @@ Golang Solutions and Tests for Leetcode
 |[0678](https://leetcode.com/problems/valid-parenthesis-string/)| Valid Parenthesis String | [Solution](./problems/0678_Valid_Parenthesis_String/valid_parenthesis_string.go) | 32.9% | Medium |
 |[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
 |[0844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare | [Solution](./problems/0844_Backspace_String_Compare/backspace_string_compare.go) | 47.4% | Easy |
+|[0886](https://leetcode.com/problems/possible-bipartition/)| Possible Bipartition | [Solution](./problems/0886_Possible_Bipartition/possible_bipartition.go) | 43.6% | Medium |
 |[0876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List | [Solution](./problems/0876_Middle_of_the_Linked_List/middle_of_the_linked_list.go) | 68.0% | Easy |
 |[0997](https://leetcode.com/problems/find-the-town-judge/)|  Find the Town Judge | [Solution](./problems/0997_Find_the_Town_Judge/find_the_town_judge.go) | 50.4% | Easy |
 |[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|  Construct Binary Search Tree from Preorder Traversal | [Solution](./problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/construct_binary_search_tree_from_preorder_traversal.go) | 76.1% | Medium |
