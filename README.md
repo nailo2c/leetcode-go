@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|64 |57 |4  |125 |
+|**Accepted**|65 |57 |4  |126 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -105,6 +105,7 @@ Golang Solutions and Tests for Leetcode
 |[0258](https://leetcode.com/problems/add-digits/)| Add Digits | [Solution](./problems/0258_Add_Digits/add_digits.go) | 55.4% | Easy |
 |[0263](https://leetcode.com/problems/ugly-number/)| Ugly Number | [Solution](./problems/0263_Ugly_Number/ugly_number.go) | 41.2% | Easy |
 |[0268](https://leetcode.com/problems/missing-number/)| Missing Number | [Solution](./problems/0268_Missing_Number/missing_number.go) | 50.1% | Easy |
+|[0278](https://leetcode.com/problems/first-bad-version/)| First Bad Version | [Solution](./problems/0278_First_Bad_Version/first_bad_version.go) | 34.9% | Easy |
 |[0283](https://leetcode.com/problems/move-zeroes/)| Move Zeroes | [Solution](./problems/0283_Move_Zeroes/move_zeroes.go) | 56.1% | Easy |
 |[0287](https://leetcode.com/problems/find-the-duplicate-number/)| Find the Duplicate Number | [Solution](./problems/0287_Find_the_Duplicate_Number/find_the_duplicate_number.go) | 52.6% | Medium |
 |[0290](https://leetcode.com/problems/word-pattern/)| Word Pattern | [Solution](./problems/0290_Word_Pattern/word_pattern.go) | 36.2% | Easy |
