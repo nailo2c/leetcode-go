@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|64 |58 |4  |125 |
+|**Accepted**|65 |58 |4  |127 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -116,6 +116,7 @@ Golang Solutions and Tests for Leetcode
 |[0322](https://leetcode.com/problems/coin-change/)| Coin Change | [Solution](./problems/0322_Coin_Change/coin_change.go) | 33.6% | Medium |
 |[0328](https://leetcode.com/problems/odd-even-linked-list/)| Odd Even Linked List | [Solution](./problems/0328_Odd_Even_Linked_List/odd_even_linked_list.go) | 53.3% | Medium |
 |[0338](https://leetcode.com/problems/counting-bits/)| Counting Bits | [Solution](./problems/0338_Counting_Bits/counting_bits.go) | 66.7% | Medium |
+|[0344](https://leetcode.com/problems/reverse-string/)| Reverse String | [Solution](./problems/0344_Reverse_String/reverse_string.go) | 67.7% | Easy |
 |[0347](https://leetcode.com/problems/top-k-frequent-elements/)| Top K Frequent Elements | [Solution](./problems/0347_Top_K_Frequent_Elements/top_k_frequent_elements.go) | 58.9% | Medium |
 |[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)| Queue Reconstruction by Height | [Solution](./problems/0406_Queue_Reconstruction_by_Height/queue_reconstruction_by_height.go) | 62.5% | Medium |
 |[0416](https://leetcode.com/problems/partition-equal-subset-sum/)| Partition Equal Subset Sum | [Solution](./problems/0416_Partition_Equal_Subset_Sum/partition_equal_subset_sum.go) | 42.3% | Medium |
