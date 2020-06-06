@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|64 |57 |4  |125 |
+|**Accepted**|64 |58 |4  |125 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -124,6 +124,7 @@ Golang Solutions and Tests for Leetcode
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
 |[0494](https://leetcode.com/problems/target-sum/)| Target Sum | [Solution](./problems/0494_Target_Sum/target_sum.go) | 46.3% | Medium |
 |[0525](https://leetcode.com/problems/contiguous-array/)| Contiguous Array | [Solution](./problems/0525_Contiguous_Array/contiguous_array.go) | 42.5% | Medium |
+|[0528](https://leetcode.com/problems/random-pick-with-weight/)| Random Pick with Weight | [Solution](./problems/0528_Random_Pick_with_Weight/random_pick_with_weight.go) | 43.6% | Medium |
 |[0543](https://leetcode.com/problems/diameter-of-binary-tree/)| Diameter of Binary Tree | [Solution](./problems/0543_Diameter_of_Binary_Tree/diameter_of_binary_tree.go) | 48.2% | Easy |
 |[0560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K | [Solution](./problems/0560_Subarray_Sum_Equals_K/subarray_sum_equals_k.go) | 43.5% | Medium |
 |[0567](https://leetcode.com/problems/permutation-in-string/)| Permutation in String | [Solution](./problems/0567_Permutation_in_String/permutation_in_string.go) | 43.0% | Medium |
