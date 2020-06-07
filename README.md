@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|65 |58 |4  |127 |
+|**Accepted**|66 |58 |4  |128 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -141,4 +141,5 @@ Golang Solutions and Tests for Leetcode
 |[0997](https://leetcode.com/problems/find-the-town-judge/)|  Find the Town Judge | [Solution](./problems/0997_Find_the_Town_Judge/find_the_town_judge.go) | 50.4% | Easy |
 |[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|  Construct Binary Search Tree from Preorder Traversal | [Solution](./problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/construct_binary_search_tree_from_preorder_traversal.go) | 76.1% | Medium |
 |[1046](https://leetcode.com/problems/last-stone-weight/)| Last Stone Weight | [Solution](./problems/1046_Last_Stone_Weight/last_stone_weight.go) | 63.3% | Easy |
+|[1029](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling | [Solution](./problems/1029_Two_City_Scheduling/two_city_scheduling.go) | 56.6% | Easy |
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence | [Solution](./problems/1143_Longest_Common_Subsequence/longest_common_subsequence.go) | 57.7% | Medium |
