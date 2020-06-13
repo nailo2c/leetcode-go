@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|65 |57 |4  |126 |
+|**Accepted**|66 |58 |4  |128 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -117,6 +117,7 @@ Golang Solutions and Tests for Leetcode
 |[0322](https://leetcode.com/problems/coin-change/)| Coin Change | [Solution](./problems/0322_Coin_Change/coin_change.go) | 33.6% | Medium |
 |[0328](https://leetcode.com/problems/odd-even-linked-list/)| Odd Even Linked List | [Solution](./problems/0328_Odd_Even_Linked_List/odd_even_linked_list.go) | 53.3% | Medium |
 |[0338](https://leetcode.com/problems/counting-bits/)| Counting Bits | [Solution](./problems/0338_Counting_Bits/counting_bits.go) | 66.7% | Medium |
+|[0344](https://leetcode.com/problems/reverse-string/)| Reverse String | [Solution](./problems/0344_Reverse_String/reverse_string.go) | 67.7% | Easy |
 |[0347](https://leetcode.com/problems/top-k-frequent-elements/)| Top K Frequent Elements | [Solution](./problems/0347_Top_K_Frequent_Elements/top_k_frequent_elements.go) | 58.9% | Medium |
 |[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)| Queue Reconstruction by Height | [Solution](./problems/0406_Queue_Reconstruction_by_Height/queue_reconstruction_by_height.go) | 62.5% | Medium |
 |[0416](https://leetcode.com/problems/partition-equal-subset-sum/)| Partition Equal Subset Sum | [Solution](./problems/0416_Partition_Equal_Subset_Sum/partition_equal_subset_sum.go) | 42.3% | Medium |
@@ -125,6 +126,7 @@ Golang Solutions and Tests for Leetcode
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
 |[0494](https://leetcode.com/problems/target-sum/)| Target Sum | [Solution](./problems/0494_Target_Sum/target_sum.go) | 46.3% | Medium |
 |[0525](https://leetcode.com/problems/contiguous-array/)| Contiguous Array | [Solution](./problems/0525_Contiguous_Array/contiguous_array.go) | 42.5% | Medium |
+|[0528](https://leetcode.com/problems/random-pick-with-weight/)| Random Pick with Weight | [Solution](./problems/0528_Random_Pick_with_Weight/random_pick_with_weight.go) | 43.6% | Medium |
 |[0543](https://leetcode.com/problems/diameter-of-binary-tree/)| Diameter of Binary Tree | [Solution](./problems/0543_Diameter_of_Binary_Tree/diameter_of_binary_tree.go) | 48.2% | Easy |
 |[0560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K | [Solution](./problems/0560_Subarray_Sum_Equals_K/subarray_sum_equals_k.go) | 43.5% | Medium |
 |[0567](https://leetcode.com/problems/permutation-in-string/)| Permutation in String | [Solution](./problems/0567_Permutation_in_String/permutation_in_string.go) | 43.0% | Medium |
@@ -140,4 +142,5 @@ Golang Solutions and Tests for Leetcode
 |[0997](https://leetcode.com/problems/find-the-town-judge/)|  Find the Town Judge | [Solution](./problems/0997_Find_the_Town_Judge/find_the_town_judge.go) | 50.4% | Easy |
 |[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|  Construct Binary Search Tree from Preorder Traversal | [Solution](./problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/construct_binary_search_tree_from_preorder_traversal.go) | 76.1% | Medium |
 |[1046](https://leetcode.com/problems/last-stone-weight/)| Last Stone Weight | [Solution](./problems/1046_Last_Stone_Weight/last_stone_weight.go) | 63.3% | Easy |
+|[1029](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling | [Solution](./problems/1029_Two_City_Scheduling/two_city_scheduling.go) | 56.6% | Easy |
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence | [Solution](./problems/1143_Longest_Common_Subsequence/longest_common_subsequence.go) | 57.7% | Medium |
