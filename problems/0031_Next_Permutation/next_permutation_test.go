@@ -23,7 +23,7 @@ func Test_Problem0031(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
-		question{
+		{
 			p: para{
 				one: []int{3, 2, 1},
 			},
@@ -31,7 +31,7 @@ func Test_Problem0031(t *testing.T) {
 				one: []int{1, 2, 3},
 			},
 		},
-		question{
+		{
 			p: para{
 				one: []int{1, 1},
 			},
@@ -39,7 +39,7 @@ func Test_Problem0031(t *testing.T) {
 				one: []int{1, 1},
 			},
 		},
-		question{
+		{
 			p: para{
 				one: []int{4, 2, 0, 3, 2, 2, 0},
 			},
