@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|66 |60 |4  |130 |
+|**Accepted**|66 |61 |4  |131 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -43,6 +43,7 @@ Golang Solutions and Tests for Leetcode
 |[0053](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | [Solution](./problems/0053_Maximum_Subarray/maximum_subarray.go) | 45.9% | Easy |
 |[0055](https://leetcode.com/problems/jump-game/)| Jump Game | [Solution](./problems/0055_Jump_Game/jump_game.go) | 33.1% | Medium |
 |[0056](https://leetcode.com/problems/merge-intervals/)| Merge Intervals | [Solution](./problems/0056_Merge_Intervals/merge_intervals.go) | 38.3% | Medium |
+|[0060](https://leetcode.com/problems/permutation-sequence/)| Permutation Sequence | [Solution](./problems/0060_Permutation_Sequence/permutation_sequence.go) | 37.6% | Medium |
 |[0062](https://leetcode.com/problems/unique-paths/)| Unique Paths | [Solution](./problems/0062_Unique_Paths/unique_paths.go) | 51.5% | Medium |
 |[0064](https://leetcode.com/problems/minimum-path-sum/)| Minimum Path Sum | [Solution](./problems/0064_Minimum_Path_Sum/minimum_path_sum.go) | 50.6% | Medium |
 |[0070](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | [Solution](./problems/0070_Climbing_Stairs/climbing_stairs.go) | 46.0% | Easy |
