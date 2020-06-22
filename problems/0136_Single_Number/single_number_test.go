@@ -19,11 +19,11 @@ type question struct {
 	a ans
 }
 
-func Test_Problem0119(t *testing.T) {
+func Test_Problem0136(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
-		question{
+		{
 			p: para{
 				one: []int{2, 2, 1},
 			},
@@ -31,7 +31,7 @@ func Test_Problem0119(t *testing.T) {
 				one: 1,
 			},
 		},
-		question{
+		{
 			p: para{
 				one: []int{4, 1, 2, 1, 2},
 			},
