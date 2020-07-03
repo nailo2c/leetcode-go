@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|66 |61 |4  |131 |
+|**Accepted**|66 |62 |4  |132 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -142,7 +142,8 @@ Golang Solutions and Tests for Leetcode
 |[0844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare | [Solution](./problems/0844_Backspace_String_Compare/backspace_string_compare.go) | 47.4% | Easy |
 |[0886](https://leetcode.com/problems/possible-bipartition/)| Possible Bipartition | [Solution](./problems/0886_Possible_Bipartition/possible_bipartition.go) | 43.6% | Medium |
 |[0876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List | [Solution](./problems/0876_Middle_of_the_Linked_List/middle_of_the_linked_list.go) | 68.0% | Easy |
-|[0997](https://leetcode.com/problems/find-the-town-judge/)|  Find the Town Judge | [Solution](./problems/0997_Find_the_Town_Judge/find_the_town_judge.go) | 50.4% | Easy |
+|[0957](https://leetcode.com/problems/prison-cells-after-n-days/)| Prison Cells After N Days | [Solution](./problems/0957_Prison_Cells_After_N_Days/prison_cells_after_n_days.go) | 39.8% | Medium |
+|[0997](https://leetcode.com/problems/find-the-town-judge/)| Find the Town Judge | [Solution](./problems/0997_Find_the_Town_Judge/find_the_town_judge.go) | 50.4% | Easy |
 |[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|  Construct Binary Search Tree from Preorder Traversal | [Solution](./problems/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal/construct_binary_search_tree_from_preorder_traversal.go) | 76.1% | Medium |
 |[1046](https://leetcode.com/problems/last-stone-weight/)| Last Stone Weight | [Solution](./problems/1046_Last_Stone_Weight/last_stone_weight.go) | 63.3% | Easy |
 |[1029](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling | [Solution](./problems/1029_Two_City_Scheduling/two_city_scheduling.go) | 56.6% | Easy |
