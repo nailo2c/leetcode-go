@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|66 |62 |4  |132 |
+|**Accepted**|66 |63 |4  |133 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -106,6 +106,7 @@ Golang Solutions and Tests for Leetcode
 |[0257](https://leetcode.com/problems/binary-tree-paths/)| Binary Tree Paths | [Solution](./problems/0257_Binary_Tree_Paths/binary_tree_paths.go) | 48.7% | Easy |
 |[0258](https://leetcode.com/problems/add-digits/)| Add Digits | [Solution](./problems/0258_Add_Digits/add_digits.go) | 55.4% | Easy |
 |[0263](https://leetcode.com/problems/ugly-number/)| Ugly Number | [Solution](./problems/0263_Ugly_Number/ugly_number.go) | 41.2% | Easy |
+|[0264](https://leetcode.com/problems/ugly-number-ii/)| Ugly Number II | [Solution](./problems/0264_Ugly_Number_II/ugly_number_ii.go) | 40.1% | Medium |
 |[0268](https://leetcode.com/problems/missing-number/)| Missing Number | [Solution](./problems/0268_Missing_Number/missing_number.go) | 50.1% | Easy |
 |[0275](https://leetcode.com/problems/h-index-ii/)| H-Index II | [Solution](./problems/0275_H_Index_II/h_index_II.go) | 35.9% | Medium |
 |[0278](https://leetcode.com/problems/first-bad-version/)| First Bad Version | [Solution](./problems/0278_First_Bad_Version/first_bad_version.go) | 34.9% | Easy |
