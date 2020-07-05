@@ -8,7 +8,7 @@ Golang Solutions and Tests for Leetcode
 
 |     |Easy |Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|66 |63 |4  |133 |
+|**Accepted**|67 |63 |4  |134 |
 |**Total**   |331|634|263|1228|
 
 ## Table of Contents
@@ -129,6 +129,7 @@ Golang Solutions and Tests for Leetcode
 |[0437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III | [Solution](./problems/0437_Path_Sum_III/path_sum_iii.go) | 44.7% | Easy |
 |[0438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| Find All Anagrams in a String | [Solution](./problems/0438_Find_All_Anagrams_in_a_String/find_all_anagrams_in_a_string.go) | 40.3% | Medium |
 |[0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)| Find All Numbers Disappeared in an Array | [Solution](./problems/0448_Find_All_Numbers_Disappeared_in_an_Array/find_all_numbers_disappeared_in_an_array.go) | 55.0% | Easy |
+|[0461](https://leetcode.com/problems/hamming-distance/)| Hamming Distance | [Solution](./problems/0461_Hamming_Distance/hamming_distance.go) | 71.6% | Easy |
 |[0494](https://leetcode.com/problems/target-sum/)| Target Sum | [Solution](./problems/0494_Target_Sum/target_sum.go) | 46.3% | Medium |
 |[0525](https://leetcode.com/problems/contiguous-array/)| Contiguous Array | [Solution](./problems/0525_Contiguous_Array/contiguous_array.go) | 42.5% | Medium |
 |[0528](https://leetcode.com/problems/random-pick-with-weight/)| Random Pick with Weight | [Solution](./problems/0528_Random_Pick_with_Weight/random_pick_with_weight.go) | 43.6% | Medium |
