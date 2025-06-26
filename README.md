@@ -127,6 +127,7 @@ Golang Solutions and Tests for Leetcode
 |[0347](https://leetcode.com/problems/top-k-frequent-elements/)| Insert Delete GetRandom O(1) | [Solution](./problems/0380_Insert_Delete_GetRandom_O1/insert_delete_getrandom_o1.go) | 47.0% | Medium |
 |[0380](https://leetcode.com/problems/insert-delete-getrandom-o1/)| Top K Frequent Elements | [Solution](./problems/0347_Top_K_Frequent_Elements/top_k_frequent_elements.go) | 58.9% | Medium |
 |[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)| Queue Reconstruction by Height | [Solution](./problems/0406_Queue_Reconstruction_by_Height/queue_reconstruction_by_height.go) | 62.5% | Medium |
+|[0412](https://leetcode.com/problems/fizz-buzz/description/)| Fizz Buzz | [Solution](./problems/0412_Fizz_Buzz/fizz_buzz.go) | 74.4% | Easy |
 |[0416](https://leetcode.com/problems/partition-equal-subset-sum/)| Partition Equal Subset Sum | [Solution](./problems/0416_Partition_Equal_Subset_Sum/partition_equal_subset_sum.go) | 42.3% | Medium |
 |[0437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III | [Solution](./problems/0437_Path_Sum_III/path_sum_iii.go) | 44.7% | Easy |
 |[0438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| Find All Anagrams in a String | [Solution](./problems/0438_Find_All_Anagrams_in_a_String/find_all_anagrams_in_a_string.go) | 40.3% | Medium |
