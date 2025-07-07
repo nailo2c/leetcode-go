@@ -1,5 +1,9 @@
 package problem0412
 
+import (
+	"strconv"
+)
+
 func fizzBuzz(n int) []string {
     ret := []string{}
     for i := 1; i <= n; i++ {
