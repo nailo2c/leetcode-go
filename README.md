@@ -144,6 +144,7 @@ Golang Solutions and Tests for Leetcode
 |[0621](https://leetcode.com/problems/task-scheduler/)| Merge Two Binary Trees | [Solution](./problems/0621_Task_Scheduler/task_scheduler.go) | 47.5% | Medium |
 |[0647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings | [Solution](./problems/0647_Palindromic_Substrings/palindromic_substrings.go) | 59.1% | Medium |
 |[0678](https://leetcode.com/problems/valid-parenthesis-string/)| Valid Parenthesis String | [Solution](./problems/0678_Valid_Parenthesis_String/valid_parenthesis_string.go) | 32.9% | Medium |
+|[0728](https://leetcode.com/problems/self-dividing-numbers/description/)| Daily Temperatures | [Solution](./problems/0728_Self_Dividing_Numbers/self_dividing_numbers.go) | 79.7% | Easy |
 |[0739](https://leetcode.com/problems/daily-temperatures/)| Daily Temperatures | [Solution](./problems/0739_Daily_Temperatures/daily_temperatures.go) | 61.9% | Medium |
 |[0844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare | [Solution](./problems/0844_Backspace_String_Compare/backspace_string_compare.go) | 47.4% | Easy |
 |[0886](https://leetcode.com/problems/possible-bipartition/)| Possible Bipartition | [Solution](./problems/0886_Possible_Bipartition/possible_bipartition.go) | 43.6% | Medium |
